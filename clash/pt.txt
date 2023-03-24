@@ -1,0 +1,16 @@
+# PT sites
+DOMAIN-KEYWORD,totheglory
+DOMAIN-KEYWORD,m-team
+DOMAIN-KEYWORD,keepfrds
+DOMAIN-KEYWORD,pthome
+DOMAIN-KEYWORD,hdhome
+DOMAIN-KEYWORD,et8.org
+DOMAIN-KEYWORD,pterclub
+DOMAIN-KEYWORD,chdbits
+DOMAIN-KEYWORD,tjupt.org
+DOMAIN-KEYWORD,hdsky
+DOMAIN-KEYWORD,springsunday.net
+DOMAIN-KEYWORD,hdchina
+DOMAIN-KEYWORD,ourbits
+DOMAIN-KEYWORD,leaguehd
+DOMAIN-KEYWORD,audiences.me
